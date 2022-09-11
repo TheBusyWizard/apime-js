@@ -1,0 +1,9 @@
+{
+  "name": "apime",
+  "version": "0.1.0",
+  "description": "API Made Easy: A framework for quickly wrapping (RESTful) APIs",
+  "main": "index.js",
+  "repository": "https://github.com/TheBusyWizard/apime-js.git",
+  "author": "TheBusyWizard <the.busy.wizard@gmail.com>",
+  "license": "MIT"
+}
